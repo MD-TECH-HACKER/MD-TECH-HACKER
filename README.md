@@ -1,10 +1,26 @@
-<img src="https://your-image-url.com/hacker.gif" width="100%" alt="Welcome Hacker" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Hacker Animation" />
 
-# 👨‍💻 MD TECH HACKER
+<h1 align="center">『⛥ 𝗠𝗗 𝗧𝗘𝗖𝗛 𝗛𝗔𝗖𝗞𝗘𝗥 ⛥』</h1>
 
-🔒 Hacker | 💻 Coder | ⚙️ Termux Addict  
-📍 Exploring tech one byte at a time...
+<p align="center">
+🔐  Hacker | 💻 Developer | ⚙️ Automation Enthusiast <br>
+ 🚀 Learning Everyday
+</p>
 
-## 🚀 Projects
-- 🔐 Termux Login UI
-- 🌐 Custom Scripts for Automations
+---
+
+## 🛠️ Tools I Use
+- Termux | Shell Scripting | Cmd
+- Python | Bash | Git
+- Custom Android Mods
+
+## 🔥 Pinned Project
+🔹 [Termux-Login-UI](https://github.com/MD-TECH-HACKER/Termux-Login-UI)
+
+---
+
+## 📫 Connect with Me
+- Telegram: [@TAMILFACTSMD5](https://t.me/TAMILFACTSMD5)
+- GitHub: [MD-TECH-HACKER](https://github.com/MD-TECH-HACKER)
+
+> ⚡ “Hacking is not a crime, it's an art of understanding systems deeper.” – MD
