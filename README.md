@@ -1,4 +1,5 @@
-![MD-TECH-HACKER preview](Cyberpunk Gif.gif)
+![MD-TECH-HACKER preview](./cyberpunk-gif.gif)
+
 
 <h1 align="center">『⛥ 𝗠𝗗 𝗧𝗘𝗖𝗛 𝗛𝗔𝗖𝗞𝗘𝗥 ⛥』</h1>
 
