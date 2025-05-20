@@ -1,11 +1,12 @@
-![MD-TECH-HACKER preview](./cyberpunk-gif.gif)
-
+<p align="center">
+  <img src="./Cyberpunk-Gif.gif" alt="MD-TECH-HACKER preview" width="100%"/>
+</p>
 
 <h1 align="center">『⛥ 𝗠𝗗 𝗧𝗘𝗖𝗛 𝗛𝗔𝗖𝗞𝗘𝗥 ⛥』</h1>
 
 <p align="center">
 🔐  Hacker | 💻 Developer | ⚙️ Automation Enthusiast <br>
- 🚀 Learning Everyday
+🚀 Learning Everyday
 </p>
 
 ---
@@ -23,5 +24,7 @@
 ## 📫 Connect with Me
 - Telegram: [@TAMILFACTSMD5](https://t.me/TAMILFACTSMD5)
 - GitHub: [MD-TECH-HACKER](https://github.com/MD-TECH-HACKER)
+
+---
 
 > ⚡ “Hacking is not a crime, it's an art of understanding systems deeper.” – MD
