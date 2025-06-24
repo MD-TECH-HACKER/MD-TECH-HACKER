@@ -21,7 +21,7 @@
 
 ---
 <p align="center">
-  <img src="./Cyberpunk-Gif.mp4" alt="Cyberpunk-Gif preview" width="100%"/>
+  <img src="./Cyberpunk-Gif.gif" alt="Cyberpunk-Gif preview" width="100%"/>
 </p>
 ## 📫 Connect with Me
 - Telegram: [@MD_TECH_HACKER](https://t.me/MD_TECH_HACKER)
