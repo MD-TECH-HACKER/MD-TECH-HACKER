@@ -20,9 +20,7 @@
 🔹 [Termux-Login-UI](https://github.com/MD-TECH-HACKER/Termux-Login-UI)
 
 ---
-<p align="center">
-  <img src="./Cyberpunk-Gif.gif" alt="Cyberpunk-Gif preview" width="100%"/>
-</p>
+
 ## 📫 Connect with Me
 - Telegram: [@MD_TECH_HACKER](https://t.me/MD_TECH_HACKER)
 - GitHub: [MD-TECH-HACKER](https://github.com/MD-TECH-HACKER)
