@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Cyberpunk-Gif.gif" alt="MD-TECH-HACKER preview" width="100%"/>
+  <img src="./welcome.gif" alt="MD-TECH-HACKER preview" width="100%"/>
 </p>
 
 <h1 align="center">『⛥ 𝗠𝗗 𝗧𝗘𝗖𝗛 𝗛𝗔𝗖𝗞𝗘𝗥 ⛥』</h1>
