@@ -55,14 +55,13 @@
 
 ```bash
 ┌──(md㉿tech-hacker)-[~]
-├── 🔐 Security Enthusiast & Ethical Hacker
-├── 💻 Full-Stack Developer & Automation Expert
-├── 📱 Android Modder & Custom ROM Developer
-├── 🤖 Bot Developer (Telegram & Discord)
-├── 🐧 Linux Power User & Terminal Addict
-├── 🐍 Python Wizard & Bash Scripter
-├── 🌐 Web Developer & Server Admin
-└── 🚀 Always Learning | Never Stopping
+│
+├── MD TECH HACKER is a security-focused developer & automation enthusiast.
+│
+├── 🔐 Works heavily with Termux, CLI tools, shell scripting, Python, & backend systems.
+├── 🤖 Builds Telegram bots, Discord bots, automation tools, dashboards, & Android custom setups.
+├── 🧠 Passionate about understanding systems deeply.
+└── 🚀 Learns every day and builds real-world tools.
 ```
 
 ```python
@@ -136,6 +135,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=47848F" alt="Electron" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -151,6 +151,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
 </p>
 
 <!-- ─────────── HACKING & SECURITY ─────────── -->
@@ -189,6 +190,18 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Cron_Jobs-000000?style=for-the-badge&logo=clockify&logoColor=00ff41" alt="Cron" />
+<img src="https://img.shields.io/badge/Puppeteer-0d1117?style=flat-square&logo=puppeteer&logoColor=40B5A4" alt="Puppeteer" />
+</p>
+
+<!-- ─────────── EDITORS & ENV ─────────── -->
+
+### 💻 Editors & Environment
+
+<p>
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+<img src="https://img.shields.io/badge/Vim-0d1117?style=flat-square&logo=vim&logoColor=019733" alt="Vim" />
+<img src="https://img.shields.io/badge/tmux-0d1117?style=flat-square&logo=tmux&logoColor=1BB91F" alt="tmux" />
+<img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 </p>
 
 </div>
@@ -311,6 +324,24 @@ me.say_hi()
 </td>
 </tr>
 </table>
+
+<br/>
+
+<details>
+<summary><b>🗂️ What I Build (Click to Expand)</b></summary>
+<br/>
+
+| Category | Description | Stack |
+|:---|:---|:---|
+| 🤖 **Telegram Bots** | Multi-purpose bots with admin panels, file management, user systems | Python, Pyrogram, MongoDB |
+| 🎮 **Discord Bots** | Moderation, automation, custom commands | Discord.js, Node.js |
+| 🌐 **Web Dashboards** | Admin panels, bot control centers, analytics dashboards | PHP, Node.js, Express, React |
+| 🛠️ **CLI Tools** | File processors, scrapers, automation scripts | Python, Bash, Shell |
+| 📱 **Android Mods** | Custom Termux setups, rooted device workflows | Shell, Magisk, Xposed |
+| 🔐 **Security Tools** | Recon scripts, network scanners, vulnerability checkers | Python, Bash, Nmap |
+| ⚙️ **Automation** | CI/CD pipelines, cron jobs, deployment scripts | GitHub Actions, Docker, Bash |
+
+</details>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════
                               HORIZONTAL DIVIDER
