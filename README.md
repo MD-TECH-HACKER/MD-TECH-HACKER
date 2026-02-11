@@ -1,374 +1,531 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         MD TECH HACKER                               -->
-<!--                    GitHub Profile README                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     ██████╗ ███╗   ███╗██████╗     ████████╗███████╗ ██████╗██╗  ██╗
+     ██╔══██╗████╗ ████║██╔══██╗    ╚══██╔══╝██╔════╝██╔════╝██║  ██║
+     ██████╔╝██╔████╔██║██║  ██║       ██║   █████╗  ██║     ███████║
+     ██╔══██╗██║╚██╔╝██║██║  ██║       ██║   ██╔══╝  ██║     ██╔══██║
+     ██║  ██║██║ ╚═╝ ██║██████╔╝       ██║   ███████╗╚██████╗██║  ██║
+     ╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝        ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
+                        ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗
+                        ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+                        ███████║███████║██║     █████╔╝ █████╗  ██████╔╝
+                        ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+                        ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
+                        ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=MD%20TECH%20HACKER&fontSize=44&fontColor=00ff41&fontAlignY=36&desc=Security%20%E2%80%A2%20Development%20%E2%80%A2%20Automation&descSize=16&descColor=888888&descAlignY=56&animation=fadeIn" width="100%" />
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ ANIMATED HEADER BANNER ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00d4ff,75:ff00ff,100:0d1117&height=220&section=header&text=⛥%20MD%20TECH%20HACKER%20⛥&fontSize=42&fontColor=00ff41&fontAlignY=35&desc=🔐%20Hacker%20|%20💻%20Developer%20|%20⚙️%20Automation%20Enthusiast&descSize=16&descColor=00d4ff&descAlignY=55&animation=twinkling" width="100%" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ TYPING SVG ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<a href="https://github.com/MD-TECH-HACKER">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%92%80+Welcome+to+My+Digital+Lair+%F0%9F%92%80;%E2%9A%A1+Hacking+is+an+Art+of+Understanding+Systems+%E2%9A%A1;%F0%9F%94%93+Breaking+Boundaries+%7C+Building+Solutions+%F0%9F%94%93;%F0%9F%9A%80+Learning+Every+Day+%7C+Coding+Every+Night+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ PROFILE VIEWS + FOLLOWERS ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <br/>
 
 <a href="https://github.com/MD-TECH-HACKER">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Security-focused+developer;Automation+architect;Systems+thinker;Building+tools+that+matter" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=MD-TECH-HACKER&label=Profile%20Views&color=00ff41&style=for-the-badge&logo=github" alt="Profile Views" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=MD-TECH-HACKER&label=views&color=00ff41&style=flat-square" alt="Views" />
-&ensp;
-<img src="https://img.shields.io/github/followers/MD-TECH-HACKER?label=followers&color=00ff41&style=flat-square&logo=github&logoColor=white" alt="Followers" />
-&ensp;
-<img src="https://img.shields.io/github/stars/MD-TECH-HACKER?label=stars&color=00ff41&style=flat-square&logo=github&logoColor=white" alt="Stars" />
+&nbsp;
+<a href="https://github.com/MD-TECH-HACKER?tab=followers">
+  <img src="https://img.shields.io/github/followers/MD-TECH-HACKER?label=Followers&style=for-the-badge&color=00d4ff&logo=github&logoColor=white" alt="Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/MD-TECH-HACKER?tab=repositories">
+  <img src="https://img.shields.io/github/stars/MD-TECH-HACKER?label=Total%20Stars&style=for-the-badge&color=ff00ff&logo=github&logoColor=white" alt="Stars" />
+</a>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                                   ABOUT ME
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
-## `> whoami`
+<br/>
 
+<img align="right" alt="Hacker GIF" width="320" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+
+## 🧬 `whoami`
+
+```bash
+┌──(md㉿tech-hacker)-[~]
+├── 🔐 Security Enthusiast & Ethical Hacker
+├── 💻 Full-Stack Developer & Automation Expert
+├── 📱 Android Modder & Custom ROM Developer
+├── 🤖 Bot Developer (Telegram & Discord)
+├── 🐧 Linux Power User & Terminal Addict
+├── 🐍 Python Wizard & Bash Scripter
+├── 🌐 Web Developer & Server Admin
+└── 🚀 Always Learning | Never Stopping
 ```
-Security-focused developer and automation enthusiast.
-I build tools, bots, and systems — then I break and rebuild them better.
-```
-
-- 🔐 Deep interest in **cybersecurity**, penetration testing, and ethical hacking
-- 🤖 Build and maintain **Telegram bots**, **Discord bots**, and custom automation pipelines
-- 📱 Android power user — custom mods, Termux workflows, CLI-first approach
-- 🐍 Primary stack: **Python**, **Bash**, **Shell Scripting**, **JavaScript**
-- 🌐 Backend systems: **Node.js**, **Express**, **PHP**, **MongoDB**, **MySQL**
-- 🛠️ Tool builder — if a process can be automated, I automate it
-- 📡 Server administration, deployment, and infrastructure management
-- 📖 Learner by default. Building every day.
-
----
-
-## `> cat /etc/profile`
 
 ```python
-#!/usr/bin/env python3
-"""MD TECH HACKER — System Profile"""
+class MDTechHacker:
+    def __init__(self):
+        self.name        = "MD TECH HACKER"
+        self.role        = "Hacker | Developer | Automation Enthusiast"
+        self.languages   = ["Python", "Bash", "Shell", "JavaScript", "PHP"]
+        self.tools       = ["Termux", "Git", "VS Code", "Linux", "Docker"]
+        self.interests   = ["Cybersecurity", "Automation", "Bot Development",
+                            "Android Modding", "Open Source"]
+        self.motto       = "Hacking is not a crime, it's an art."
+    
+    def current_focus(self):
+        return [
+            "🔭 Building powerful Telegram & Discord Bots",
+            "🌱 Learning advanced cybersecurity techniques",
+            "⚡ Automating everything that can be automated",
+            "🤝 Contributing to open-source projects",
+            "💡 Creating tools that make life easier"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something amazing! 🚀")
 
-class Developer:
-    
-    name        = "MD TECH HACKER"
-    location    = "The Terminal"
-    focus       = ["Security", "Automation", "Backend", "Bot Development"]
-    
-    languages   = {
-        "proficient" : ["Python", "Bash", "Shell", "JavaScript", "PHP"],
-        "familiar"   : ["TypeScript", "Go", "Rust"],
-        "markup"     : ["HTML", "CSS", "Markdown"]
-    }
-    
-    databases   = ["MongoDB", "MySQL", "SQLite", "Firebase"]
-    platforms   = ["Linux", "Android (Termux)", "Windows", "Raspberry Pi"]
-    
-    daily_tools = [
-        "Termux", "VS Code", "Git", "Docker",
-        "Nginx", "PM2", "tmux", "Vim"
-    ]
-    
-    current_projects = [
-        "Telegram Bot Framework",
-        "Web Dashboard Systems",
-        "CLI Automation Toolkit",
-        "Android Custom Setups"
-    ]
 
-    def philosophy(self):
-        return "Understand the system. Then make it work for you."
+me = MDTechHacker()
+me.say_hi()
 ```
 
----
+<br clear="both"/>
 
-## ⚙️ Core Stack
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![Shell](https://img.shields.io/badge/Shell-0d1117?style=flat-square&logo=windowsterminal&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-
-**Frameworks & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=47848F)
-
-**Data**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-
-**Security & Ops**
-
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
-![Termux](https://img.shields.io/badge/Termux-0d1117?style=flat-square&logo=gnubash&logoColor=00ff41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=portswigger&logoColor=FF6633)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=0E83CD)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![GitHub Actions](https://img.shields.io/badge/Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-
-**Bots & Automation**
-
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4)
-![Discord Bot](https://img.shields.io/badge/Discord_Bot-0d1117?style=flat-square&logo=discord&logoColor=5865F2)
-![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium&logoColor=43B02A)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-0d1117?style=flat-square&logo=puppeteer&logoColor=40B5A4)
-![Cron](https://img.shields.io/badge/Cron-0d1117?style=flat-square&logo=clockify&logoColor=03A9F4)
-
-**Editors & Environment**
-
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Vim](https://img.shields.io/badge/Vim-0d1117?style=flat-square&logo=vim&logoColor=019733)
-![tmux](https://img.shields.io/badge/tmux-0d1117?style=flat-square&logo=tmux&logoColor=1BB91F)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
-
-</div>
-
----
-
-## 📊 Stats
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                                TECH STACK
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://github.com/MD-TECH-HACKER">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MD-TECH-HACKER&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MD-TECH-HACKER&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Stats" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/MD-TECH-HACKER">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MD-TECH-HACKER&hide_border=true&background=0d1117&stroke=00ff4133&ring=00ff41&fire=ff6600&currStreakNum=00ff41&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=888888&dates=586069" />
-    <img width="48%" src="https://streak-stats.demolab.com/?user=MD-TECH-HACKER&hide_border=true&background=0d1117&stroke=00ff4133&ring=00ff41&fire=ff6600&currStreakNum=00ff41&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=888888&dates=586069" alt="Streak" />
-  </picture>
-</a>
+## 🛠️ Tech Arsenal
 
-<br/><br/>
+<p><i>⚔️ Weapons of choice for hacking, developing, and automating</i></p>
 
-<a href="https://github.com/MD-TECH-HACKER">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TECH-HACKER&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TECH-HACKER&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Languages" />
-  </picture>
-</a>
+<!-- ─────────── LANGUAGES ─────────── -->
 
-<br/><br/>
+### 💻 Languages & Scripting
 
-<!-- Activity Graph -->
-<a href="https://github.com/MD-TECH-HACKER">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MD-TECH-HACKER&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</a>
+<p>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
+
+<!-- ─────────── FRAMEWORKS & TOOLS ─────────── -->
+
+### ⚙️ Frameworks & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+<!-- ─────────── DATABASES ─────────── -->
+
+### 🗄️ Databases & Storage
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+<!-- ─────────── HACKING & SECURITY ─────────── -->
+
+### 🔐 Hacking & Security
+
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41" alt="Termux" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+</p>
+
+<!-- ─────────── OS & PLATFORMS ─────────── -->
+
+### 🖥️ Operating Systems & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+</p>
+
+<!-- ─────────── BOT & AUTOMATION ─────────── -->
+
+### 🤖 Bot Development & Automation
+
+<p>
+<img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+<img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Cron_Jobs-000000?style=for-the-badge&logo=clockify&logoColor=00ff41" alt="Cron" />
+</p>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
-## 🔥 Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                                GITHUB STATS
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://github.com/MD-TECH-HACKER/Termux-Login-UI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MD-TECH-HACKER&repo=Termux-Login-UI&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MD-TECH-HACKER&repo=Termux-Login-UI&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="Termux-Login-UI" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/MD-TECH-HACKER/MD-TECH-HACKER">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MD-TECH-HACKER&repo=MD-TECH-HACKER&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MD-TECH-HACKER&repo=MD-TECH-HACKER&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="Profile README" />
-  </picture>
+## 📊 GitHub Analytics
+
+<p><i>📈 My coding journey in numbers</i></p>
+
+<!-- ─────────── STATS CARDS ─────────── -->
+
+<p>
+  <a href="https://github.com/MD-TECH-HACKER">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MD-TECH-HACKER&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9&ring_color=00ff41&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MD-TECH-HACKER">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-TECH-HACKER&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakNum=00ff41&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=586069" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- ─────────── TOP LANGUAGES ─────────── -->
+
+<p>
+  <a href="https://github.com/MD-TECH-HACKER">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TECH-HACKER&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+  </a>
+</p>
+
+<!-- ─────────── ACTIVITY GRAPH ─────────── -->
+
+<a href="https://github.com/MD-TECH-HACKER">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MD-TECH-HACKER&bg_color=0d1117&color=00ff41&line=00d4ff&point=ff00ff&area=true&area_color=00ff41&hide_border=true&custom_title=📈%20MD%20TECH%20HACKER's%20Contribution%20Graph" alt="Contribution Graph" />
 </a>
 
-</div>
+<!-- ─────────── TROPHIES ─────────── -->
 
 <br/>
 
-<details>
-<summary><b>🗂️ What I Build</b></summary>
-<br/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=MD-TECH-HACKER&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</a>
 
-| Category | Description | Stack |
-|:---|:---|:---|
-| 🤖 **Telegram Bots** | Multi-purpose bots with admin panels, file management, user systems | Python, Pyrogram, MongoDB |
-| 🎮 **Discord Bots** | Moderation, automation, custom commands | Discord.js, Node.js |
-| 🌐 **Web Dashboards** | Admin panels, bot control centers, analytics dashboards | PHP, Node.js, Express, React |
-| 🛠️ **CLI Tools** | File processors, scrapers, automation scripts | Python, Bash, Shell |
-| 📱 **Android Mods** | Custom Termux setups, rooted device workflows | Shell, Magisk, Xposed |
-| 🔐 **Security Tools** | Recon scripts, network scanners, vulnerability checkers | Python, Bash, Nmap |
-| ⚙️ **Automation** | CI/CD pipelines, cron jobs, deployment scripts | GitHub Actions, Docker, Bash |
+</div>
 
-</details>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔭 Current Focus
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              FEATURED PROJECTS
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🔥 Featured Projects
+
+<p><i>🏗️ Some of my best work</i></p>
+
+</div>
+
+<!-- ─────────── PROJECT CARDS ─────────── -->
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🔐 Termux Login UI</h3>
+
+<div align="center">
+  <a href="https://github.com/MD-TECH-HACKER/Termux-Login-UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MD-TECH-HACKER&repo=Termux-Login-UI&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9" alt="Termux-Login-UI" />
+  </a>
+  <br/><br/>
+  <p>
+    <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
+    <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=gnubash&logoColor=00ff41" alt="Termux" />
+  </p>
+  <p><b>🔹 A beautiful & secure login interface for Termux terminal</b></p>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 More Projects Coming...</h3>
+
+<div align="center">
+
+```
+┌──────────────────────────────┐
+│                              │
+│   🚧 UNDER CONSTRUCTION 🚧  │
+│                              │
+│   ░░░░░░░░░░░░░░░░░░░░░░░   │
+│   ██████████░░░░░░░░░░░░░   │
+│   ░░░░░░░░░░░░░░░░░░░░░░░   │
+│                              │
+│   New projects are being     │
+│   developed. Stay tuned!     │
+│                              │
+└──────────────────────────────┘
+```
+
+<p><b>🔹 Exciting tools & bots are in the works!</b></p>
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                         WHAT I'M CURRENTLY UP TO
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⚡ Current Status
+
+</div>
 
 ```yaml
-working_on   : Telegram bots, web dashboards, automation scripts
-learning     : advanced pentesting, cloud infrastructure, DevOps
-building     : open-source tools for developers and security researchers
-exploring    : Rust, containerized deployments, microservices
-goal_2026    : ship 10+ tools, contribute to OSS, go deeper into security
+🔭  Currently Working On : Telegram Bots, Web Apps, & Automation Scripts
+🌱  Currently Learning   : Advanced Pentesting, Cloud Security, DevOps
+👯  Looking to Collaborate: Open-Source Security Tools & Bot Projects
+💬  Ask Me About         : Python, Bash, Termux, Bot Development, Web Scraping
+🎯  2026 Goals           : Contribute more to OSS, Build 10+ Tools, Learn Rust
+⚡  Fun Fact             : I can automate your boring tasks while you sleep! 😎
+🏠  Based In             : The Terminal 🖥️
 ```
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
-## `> uptime`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                             SUPPORT & SPONSOR
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   05:00  ░░░░░░░░░░░░░░░░░░░░  Wake up                 │
-│   06:00  ██░░░░░░░░░░░░░░░░░░  Coffee + News            │
-│   07:00  ████████░░░░░░░░░░░░  Code: Bots & Tools       │
-│   12:00  ░░██░░░░░░░░░░░░░░░░  Break                    │
-│   13:00  ████████████░░░░░░░░  Code: Backend & Systems   │
-│   18:00  ░░██░░░░░░░░░░░░░░░░  Research & Learn          │
-│   20:00  ██████░░░░░░░░░░░░░░  Open Source & Side Proj   │
-│   23:00  ░░██░░░░░░░░░░░░░░░░  Review + Plan Tomorrow   │
-│   00:00  ░░░░░░░░░░░░░░░░░░░░  Sleep (maybe)            │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+## ☕ Support My Work
 
-</div>
-
----
-
-## `> cat /proc/skills`
-
-```
-Python           ████████████████████░░░░░  85%
-Bash / Shell     ███████████████████░░░░░░  80%
-JavaScript       ████████████████░░░░░░░░░  70%
-PHP              ███████████████░░░░░░░░░░  65%
-Node.js          ████████████████░░░░░░░░░  70%
-MongoDB          ███████████████████░░░░░░  80%
-Docker           ██████████████░░░░░░░░░░░  60%
-Linux Admin      ████████████████████░░░░░  85%
-Bot Development  █████████████████████░░░░  90%
-Automation       █████████████████████░░░░  90%
-Cybersecurity    ███████████████░░░░░░░░░░  65%
-Git              ████████████████████░░░░░  85%
-```
-
----
-
-## ☕ Support
-
-<div align="center">
+<p><i>If you find my projects helpful, consider supporting me! Every contribution fuels more open-source awesomeness 🚀</i></p>
 
 <br/>
 
-If my work helps you — consider supporting it.
-
-<br/><br/>
+<!-- ─────────── SUPPORT BUTTONS ─────────── -->
 
 <a href="https://www.buymeacoffee.com/mdtechhacker">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" height="45"/>
 </a>
-&ensp;
+&nbsp;&nbsp;
 <a href="https://github.com/sponsors/MD-TECH-HACKER">
-  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+  <img src="https://img.shields.io/badge/💖%20Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" height="45"/>
 </a>
-&ensp;
+&nbsp;&nbsp;
 <a href="https://ko-fi.com/mdtechhacker">
-  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  <img src="https://img.shields.io/badge/Support%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="45"/>
 </a>
 
 <br/><br/>
 
+<!-- ─────────── EXTRA SUPPORT MESSAGE ─────────── -->
+
 <table>
-<tr><td align="center">
+<tr>
+<td align="center">
+
+### 💝 Why Support?
 
 ```
-Your support keeps these projects alive:
-  → Free & open-source tools
-  → Community bots & utilities
-  → Security research & education
-  → Late-night caffeine supply ☕
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Your support helps me:                                    │
+│                                                             │
+│   ☕  Stay caffeinated during late-night coding sessions     │
+│   🛠️  Build & maintain free open-source tools               │
+│   📚  Learn new technologies & share knowledge              │
+│   🌍  Keep projects free for everyone to use                │
+│   🚀  Launch new exciting projects faster                   │
+│                                                             │
+│   Even a small contribution makes a BIG difference! 🙏     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 <br/>
 
+<p>
+  <img src="https://img.shields.io/badge/Thank%20You%20For%20Your%20Support!-00ff41?style=for-the-badge&logoColor=white" alt="Thank You" />
+</p>
+
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
-## 📬 Connect
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              CONNECT WITH ME
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+## 🌐 Connect With Me
+
+<p><i>🤝 Let's build something amazing together!</i></p>
+
+<br/>
+
 <a href="https://t.me/MD_TECH_HACKER">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40"/>
 </a>
-&ensp;
+&nbsp;
 <a href="https://github.com/MD-TECH-HACKER">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+</a>
+&nbsp;
+<a href="https://t.me/MD_TECH_HACKER">
+  <img src="https://img.shields.io/badge/Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" height="40"/>
 </a>
 
 <br/><br/>
 
-```
-For collaborations, tool requests, or just to talk tech:
-→ Telegram: @MD_TECH_HACKER
-→ GitHub:   github.com/MD-TECH-HACKER
-```
+<!-- ─────────── TELEGRAM BOT BADGE ─────────── -->
+
+<p>
+  <img src="https://img.shields.io/badge/💬%20DM%20Me%20on%20Telegram-%40MD__TECH__HACKER-00ff41?style=flat-square&logo=telegram&logoColor=white" alt="DM" />
+</p>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              INSPIRATIONAL QUOTE
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+## 💭 Hacker's Wisdom
+
 <br/>
 
 ```
-"Hacking is not about breaking things.
- It's about understanding systems so deeply
- that you see what others can't."
-                                    — MD
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "Hacking is not a crime, it's an art of understanding              ║
+║    systems deeper."                                                   ║
+║                                                         — MD         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                               SNAKE ANIMATION
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              FOOTER BANNER
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00d4ff,75:ff00ff,100:0d1117&height=150&section=footer&fontSize=0" width="100%" />
+
+<div align="center">
+
+<!-- ─────────── FINAL BADGE ─────────── -->
+
+<img src="https://img.shields.io/badge/Made%20With%20❤️%20By-MD%20TECH%20HACKER-00ff41?style=for-the-badge&logo=github&logoColor=white" alt="Made by MD TECH HACKER" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/⚡%20Powered%20By-Coffee%20%26%20Code-ff6600?style=flat-square" alt="Powered By" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%" />
-
-<sub>Built with focus. Powered by caffeine and curiosity.</sub>
+<b>⭐ If you like my work, give my repos a star! ⭐</b>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     END OF README — Thanks for scrolling all the way down! You're awesome! 🎉
+═══════════════════════════════════════════════════════════════════════════════════ -->
