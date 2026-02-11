@@ -17,13 +17,20 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ ANIMATED HEADER BANNER ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00d4ff,75:ff00ff,100:0d1117&height=220&section=header&text=⛥%20MD%20TECH%20HACKER%20⛥&fontSize=42&fontColor=00ff41&fontAlignY=35&desc=🔐%20Hacker%20|%20💻%20Developer%20|%20⚙️%20Automation%20Enthusiast&descSize=16&descColor=00d4ff&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00d4ff,75:ff00ff,100:0d1117&height=280&section=header&text=⛥%20MD%20TECH%20HACKER%20⛥&fontSize=50&fontColor=00ff41&fontAlignY=30&desc=🔐%20Hacker%20|%20💻%20Developer%20|%20⚙️%20Automation%20Enthusiast&descSize=20&descColor=00d4ff&descAlignY=55&animation=twinkling&stroke=00ff41&strokeWidth=2" width="100%" />
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ TYPING SVG ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <a href="https://github.com/MD-TECH-HACKER">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%92%80+Welcome+to+My+Digital+Lair+%F0%9F%92%80;%E2%9A%A1+Hacking+is+an+Art+of+Understanding+Systems+%E2%9A%A1;%F0%9F%94%93+Breaking+Boundaries+%7C+Building+Solutions+%F0%9F%94%93;%F0%9F%9A%80+Learning+Every+Day+%7C+Coding+Every+Night+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%F0%9F%92%80+Welcome+to+My+Digital+Lair+%F0%9F%92%80;%E2%9A%A1+Hacking+is+an+Art+of+Understanding+Systems+%E2%9A%A1;%F0%9F%94%93+Breaking+Boundaries+%7C+Building+Solutions+%F0%9F%94%93;%F0%9F%9A%80+Learning+Every+Day+%7C+Coding+Every+Night+%F0%9F%9A%80;%F0%9F%8C%90+Check+Out+My+Website+Below+%F0%9F%8C%90;%F0%9F%9B%A1%EF%B8%8F+Security+Researcher+%7C+Penetration+Tester+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ WEBSITE LINK (NEW) ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<h3>
+    <a href="https://md-tech-hacker.me/">
+        <img src="https://img.shields.io/badge/🌐_Website-md--tech--hacker.me-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website">
+    </a>
+</h3>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ PROFILE VIEWS + FOLLOWERS ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -49,11 +56,12 @@
 
 <br/>
 
-<img align="right" alt="Hacker GIF" width="320" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-
-## 🧬 `whoami`
-
-```bash
+<!-- Fixed Alignment using Table Structure (Text Left | Image Right) -->
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+        <h2>🧬 `whoami`</h2>
+<pre>
 ┌──(md㉿tech-hacker)-[~]
 │
 ├── MD TECH HACKER is a security-focused developer & automation enthusiast.
@@ -61,13 +69,24 @@
 ├── 🔐 Works heavily with Termux, CLI tools, shell scripting, Python, & backend systems.
 ├── 🤖 Builds Telegram bots, Discord bots, automation tools, dashboards, & Android custom setups.
 ├── 🧠 Passionate about understanding systems deeply.
-└── 🚀 Learns every day and builds real-world tools.
-```
+├── 🌍 Contributing to Open Source & Community.
+├── ⚡ Always learning, always hacking, always building.
+└── 🚀 Reach me at: https://md-tech-hacker.me
+</pre>
+    </td>
+    <td width="40%" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" alt="Hacker GIF">
+    </td>
+  </tr>
+</table>
+
+### 💻 Developer Profile
 
 ```python
 class MDTechHacker:
     def __init__(self):
         self.name        = "MD TECH HACKER"
+        self.website     = "https://md-tech-hacker.me/"
         self.role        = "Hacker | Developer | Automation Enthusiast"
         self.languages   = ["Python", "Bash", "Shell", "JavaScript", "PHP"]
         self.tools       = ["Termux", "Git", "VS Code", "Linux", "Docker"]
@@ -86,7 +105,6 @@ class MDTechHacker:
     
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing! 🚀")
-
 
 me = MDTechHacker()
 me.say_hi()
@@ -124,6 +142,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
 
 <!-- ─────────── FRAMEWORKS & TOOLS ─────────── -->
@@ -205,6 +224,7 @@ me.say_hi()
 </p>
 
 </div>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════
                               HORIZONTAL DIVIDER
@@ -213,7 +233,7 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════
-                                GITHUB STATS
+                                GITHUB STATS EMPIRE
 ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -252,9 +272,15 @@ me.say_hi()
 
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=MD-TECH-HACKER&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</a>
+<details>
+<summary>🏆 <b>My Trophy Case</b> (Click to Unlock)</summary>
+<br/>
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img width="98%" src="https://github-profile-trophy.vercel.app/?username=MD-TECH-HACKER&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+    </a>
+</div>
+</details>
 
 </div>
 
@@ -265,298 +291,524 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════
-                              FEATURED PROJECTS
+                              SKILL PROGRESS BARS
 ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🔥 Featured Projects
-
-<p><i>🏗️ Some of my best work</i></p>
+## 🦾 Skill Proficiency
 
 </div>
 
-<!-- ─────────── PROJECT CARDS ─────────── -->
+```bash
+> cat /proc/skills
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+Python       [████████████████████] 99%
+Bash/Shell   [██████████████████  ] 90%
+Hacking      [█████████████████   ] 85%
+Automation   [████████████████████] 100%
+Web Dev      [██████████████      ] 70%
+Android      [████████████████    ] 80%
+Sleeping     [██                  ] 10%
+```
 
-<h3 align="center">🔐 Termux Login UI</h3>
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <a href="https://github.com/MD-TECH-HACKER/Termux-Login-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MD-TECH-HACKER&repo=Termux-Login-UI&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9" alt="Termux-Login-UI" />
-  </a>
-  <br/><br/>
-  <p>
-    <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
-    <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=gnubash&logoColor=00ff41" alt="Termux" />
-  </p>
-  <p><b>🔹 A beautiful & secure login interface for Termux terminal</b></p>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 More Projects Coming...</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                                FEATURED PROJECTS
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-┌──────────────────────────────┐
-│                              │
-│   🚧 UNDER CONSTRUCTION 🚧  │
-│                              │
-│   ░░░░░░░░░░░░░░░░░░░░░░░   │
-│   ██████████░░░░░░░░░░░░░   │
-│   ░░░░░░░░░░░░░░░░░░░░░░░   │
-│                              │
-│   New projects are being     │
-│   developed. Stay tuned!     │
-│                              │
-└──────────────────────────────┘
-```
+## 🔥 Project Gallery
 
-<p><b>🔹 Exciting tools & bots are in the works!</b></p>
+<p><i>🏗️ A collection of my best hacks, bots, and tools</i></p>
+
 </div>
 
-</td>
-</tr>
+<br/>
+
+<!-- ─────────── PROJECT 1: TERMUX LOGIN UI ─────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&text=Termux%20Login%20UI&fontSize=25&fontColor=00ff41&desc=Secure%20Terminal%20Access%20Tool&descSize=14&descColor=ffffff&stroke=00ff41&strokeWidth=1" width="100%" />
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🔐 Features</h3>
+      <ul>
+        <li>🛡️ <b>Password Protection</b> for Termux</li>
+        <li>🎨 <b>Custom Themes</b> & Banner support</li>
+        <li>⚡ <b>Fast & Lightweight</b> Bash script</li>
+        <li>👤 <b>Multi-user</b> support (Simulated)</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=gnubash&logoColor=00ff41" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/MD-TECH-HACKER/Termux-Login-UI">
+          <img src="https://img.shields.io/badge/View%20Project-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<details>
-<summary><b>🗂️ What I Build (Click to Expand)</b></summary>
+<!-- ─────────── PROJECT 2: TELEGRAM GROUP MANAGER ─────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&text=TeleGuard%20Bot&fontSize=25&fontColor=00d4ff&desc=Advanced%20Telegram%20Group%20Management&descSize=14&descColor=ffffff&stroke=00d4ff&strokeWidth=1" width="100%" />
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🤖 Features</h3>
+      <ul>
+        <li>🚫 <b>Anti-Spam & Anti-Flood</b> protection</li>
+        <li>👮 <b>Auto-Moderation</b> (Links, NSFW, Ads)</li>
+        <li>📊 <b>User Analytics</b> & Reporting</li>
+        <li>🎵 <b>Music Player</b> integration</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/MD-TECH-HACKER">
+          <img src="https://img.shields.io/badge/View%20Code-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
-| Category | Description | Stack |
-|:---|:---|:---|
-| 🤖 **Telegram Bots** | Multi-purpose bots with admin panels, file management, user systems | Python, Pyrogram, MongoDB |
-| 🎮 **Discord Bots** | Moderation, automation, custom commands | Discord.js, Node.js |
-| 🌐 **Web Dashboards** | Admin panels, bot control centers, analytics dashboards | PHP, Node.js, Express, React |
-| 🛠️ **CLI Tools** | File processors, scrapers, automation scripts | Python, Bash, Shell |
-| 📱 **Android Mods** | Custom Termux setups, rooted device workflows | Shell, Magisk, Xposed |
-| 🔐 **Security Tools** | Recon scripts, network scanners, vulnerability checkers | Python, Bash, Nmap |
-| ⚙️ **Automation** | CI/CD pipelines, cron jobs, deployment scripts | GitHub Actions, Docker, Bash |
+<!-- ─────────── PROJECT 3: ALL-IN-ONE HACKING TOOL ─────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&text=MD-Sploit&fontSize=25&fontColor=ff00ff&desc=All-in-One%20Hacking%20Framework&descSize=14&descColor=ffffff&stroke=ff00ff&strokeWidth=1" width="100%" />
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>💀 Features</h3>
+      <ul>
+        <li>🔍 <b>Info Gathering</b> (Whois, DNS, IP)</li>
+        <li>💥 <b>Vulnerability Scanner</b> (SQLi, XSS)</li>
+        <li>📱 <b>Android Rat</b> Generator (Educational)</li>
+        <li>📡 <b>WiFi Jammer</b> (Deauth attack)</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/MD-TECH-HACKER">
+          <img src="https://img.shields.io/badge/View%20Tool-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─────────── PROJECT 4: DISCORD MODERATION BOT ─────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&text=Ds-Mod&fontSize=25&fontColor=5865F2&desc=Ultimate%20Discord%20Server%20Guardian&descSize=14&descColor=ffffff&stroke=5865F2&strokeWidth=1" width="100%" />
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>💬 Features</h3>
+      <ul>
+        <li>🔨 <b>Ban/Kick/Mute</b> commands</li>
+        <li>🎫 <b>Ticket System</b> for support</li>
+        <li>👋 <b>Welcome Images</b> (Customizable)</li>
+        <li>🎮 <b>Minigames</b> (Economy, RPG)</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/MD-TECH-HACKER">
+          <img src="https://img.shields.io/badge/View%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─────────── PROJECT 5: WEBSITE SOURCE GRABBER ─────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&text=Web-Shark&fontSize=25&fontColor=FFA500&desc=Website%20Source%20Code%20Downloader&descSize=14&descColor=ffffff&stroke=FFA500&strokeWidth=1" width="100%" />
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🌐 Features</h3>
+      <ul>
+        <li>📥 <b>Download HTML/CSS/JS</b></li>
+        <li>🖼️ <b>Extract Images</b> & Assets</li>
+        <li>⚡ <b>Fast Clone</b> of any website</li>
+        <li>📱 <b>Terminal UI</b> (TUI) based</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Requests-000000?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/MD-TECH-HACKER">
+          <img src="https://img.shields.io/badge/Get%20Script-FFA500?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<!-- ─────────── PROJECT 6: INSTAGRAM OSINT ─────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&text=Insta-Recon&fontSize=25&fontColor=C13584&desc=Instagram%20Information%20Gathering%20Tool&descSize=14&descColor=ffffff&stroke=C13584&strokeWidth=1" width="100%" />
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>📸 Features</h3>
+      <ul>
+        <li>🔍 <b>Profile Info</b> Grabber</li>
+        <li>🖼️ <b>HD DP</b> Downloader</li>
+        <li>👥 <b>Followers/Following</b> List Export</li>
+        <li>🕵️ <b>Story Viewer</b> (Anonymous)</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Instaloader-C13584?style=flat-square&logo=instagram&logoColor=white" />
+        <img src="https://img.shields.io/badge/OSINT-000000?style=flat-square&logo=hackthebox&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/MD-TECH-HACKER">
+          <img src="https://img.shields.io/badge/View%20Tool-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─────────── PROJECT 7: FACEBOOK BRUTEFORCE ─────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&text=FB-Force&fontSize=25&fontColor=1877F2&desc=Educational%20Facebook%20Bruteforce%20Tool&descSize=14&descColor=ffffff&stroke=1877F2&strokeWidth=1" width="100%" />
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🔓 Features</h3>
+      <ul>
+        <li>🔨 <b>Multi-Threaded</b> Cracking</li>
+        <li>📂 <b>Custom Wordlist</b> Support</li>
+        <li>🌐 <b>Proxy Rotation</b> (Tor/HTTP)</li>
+        <li>📱 <b>Mobile API</b> Simulation</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Requests-000000?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mechanize-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/MD-TECH-HACKER">
+          <img src="https://img.shields.io/badge/View%20Code-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─────────── PROJECT 8: SMS BOMBER API ─────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&text=Turbo-Bomber&fontSize=25&fontColor=FF0000&desc=High%20Performance%20SMS/Call%20Bomber%20API&descSize=14&descColor=ffffff&stroke=FF0000&strokeWidth=1" width="100%" />
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>💣 Features</h3>
+      <ul>
+        <li>🚀 <b>Super Fast</b> Async API</li>
+        <li>🌍 <b>Global Support</b> (Multiple Countries)</li>
+        <li>🛡️ <b>Protect List</b> (Whitelist)</li>
+        <li>💻 <b>Web UI</b> Interface</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Aiohttp-000000?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/MD-TECH-HACKER">
+          <img src="https://img.shields.io/badge/Test%20API-FF0000?style=for-the-badge&logo=firely&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─────────── PROJECT 9: YOUTUBE VIDEO DOWNLOADER ─────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&text=YT-Downloder&fontSize=25&fontColor=FF0000&desc=Download%20Everything%20from%20YouTube&descSize=14&descColor=ffffff&stroke=FF0000&strokeWidth=1" width="100%" />
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>📺 Features</h3>
+      <ul>
+        <li>📥 <b>4K Video</b> Download Support</li>
+        <li>🎵 <b>MP3 Audio</b> Extraction</li>
+        <li>📂 <b>Playlist Download</b> (Batch)</li>
+        <li>🖼️ <b>Thumbnail</b> Grabber</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/MD-TECH-HACKER">
+          <img src="https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─────────── PROJECT 10: PORTFOLIO WEBSITE ─────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&text=Portfolio%20v2&fontSize=25&fontColor=61DAFB&desc=My%20Personal%20Hacker%20Portfolio&descSize=14&descColor=ffffff&stroke=61DAFB&strokeWidth=1" width="100%" />
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🌐 Features</h3>
+      <ul>
+        <li>✨ <b>Animated</b> UI/UX</li>
+        <li>📱 <b>Responsive</b> Design</li>
+        <li>🚀 <b>Dark Mode</b> by Default</li>
+        <li>⚡ <b>Fast Loading</b> (Optimized)</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://md-tech-hacker.me/">
+          <img src="https://img.shields.io/badge/Visit%20Site-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                                HACKER KNOWLEDGE BANK
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🧠 Hacker Knowledge Bank
+
+<p><i>📚 Useful commands & tricks for the elite</i></p>
+
+</div>
+
+<details>
+<summary><b>🔥 Essential Termux Commands</b> (Click to Expand)</summary>
+<br/>
+
+| Command | Description |
+| :--- | :--- |
+| `pkg update && pkg upgrade` | Update all packages |
+| `termux-setup-storage` | Grant storage permission |
+| `pkg install python` | Install Python |
+| `pkg install git` | Install Git |
+| `git clone <url>` | Clone a repository |
+| `chmod +x <file>` | Make script executable |
+| `pip install -r requirements.txt` | Install Python dependencies |
+| `termux-api` | Access Android APIs |
 
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-                              HORIZONTAL DIVIDER
-═══════════════════════════════════════════════════════════════════════════════════ -->
+<details>
+<summary><b>🛡️ Security Checklist for Devs</b> (Click to Expand)</summary>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+1.  **Never commit `.env` files.** Use `.gitignore`.
+2.  **Rotate API keys regularly.** Don't hardcode them.
+3.  **Use 2FA** on all critical accounts (GitHub, AWS, Google).
+4.  **Sanitize inputs** to prevent SQL Injection & XSS.
+5.  **Keep dependencies updated** to patch vulnerabilities.
+6.  **Use strong, unique passwords** with a Password Manager.
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-                         WHAT I'M CURRENTLY UP TO
-═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⚡ Current Status
-
-</div>
-
-```yaml
-🔭  Currently Working On : Telegram Bots, Web Apps, & Automation Scripts
-🌱  Currently Learning   : Advanced Pentesting, Cloud Security, DevOps
-👯  Looking to Collaborate: Open-Source Security Tools & Bot Projects
-💬  Ask Me About         : Python, Bash, Termux, Bot Development, Web Scraping
-🎯  2026 Goals           : Contribute more to OSS, Build 10+ Tools, Learn Rust
-⚡  Fun Fact             : I can automate your boring tasks while you sleep! 😎
-🏠  Based In             : The Terminal 🖥️
-```
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-                              HORIZONTAL DIVIDER
-═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-                             SUPPORT & SPONSOR
-═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ☕ Support My Work
-
-<p><i>If you find my projects helpful, consider supporting me! Every contribution fuels more open-source awesomeness 🚀</i></p>
+</details>
 
 <br/>
 
-<!-- ─────────── SUPPORT BUTTONS ─────────── -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                                SUPPORT ME
+═══════════════════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://www.buymeacoffee.com/mdtechhacker">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" height="45"/>
+<div align="center">
+
+## 🤝 Support the Mission
+
+<p><i>☕ Fuel my coding/hacking sessions</i></p>
+
+<a href="https://www.buymeacoffee.com/MDTECHHACKER">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
+<a href="https://ko-fi.com/MDTECHHACKER">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+</a>
+&nbsp;
 <a href="https://github.com/sponsors/MD-TECH-HACKER">
-  <img src="https://img.shields.io/badge/💖%20Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" height="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://ko-fi.com/mdtechhacker">
-  <img src="https://img.shields.io/badge/Support%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="45"/>
+  <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors" />
 </a>
 
-<br/><br/>
-
-<!-- ─────────── EXTRA SUPPORT MESSAGE ─────────── -->
-
-<table>
-<tr>
-<td align="center">
-
-### 💝 Why Support?
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Your support helps me:                                    │
-│                                                             │
-│   ☕  Stay caffeinated during late-night coding sessions     │
-│   🛠️  Build & maintain free open-source tools               │
-│   📚  Learn new technologies & share knowledge              │
-│   🌍  Keep projects free for everyone to use                │
-│   🚀  Launch new exciting projects faster                   │
-│                                                             │
-│   Even a small contribution makes a BIG difference! 🙏     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                              HORIZONTAL DIVIDER
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+                                CONNECT WITH ME
+═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📬 Connect With Me
 
 <p>
-  <img src="https://img.shields.io/badge/Thank%20You%20For%20Your%20Support!-00ff41?style=for-the-badge&logoColor=white" alt="Thank You" />
-</p>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-                              HORIZONTAL DIVIDER
-═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-                              CONNECT WITH ME
-═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<p><i>🤝 Let's build something amazing together!</i></p>
-
-<br/>
-
 <a href="https://t.me/MD_TECH_HACKER">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 &nbsp;
-<a href="https://github.com/MD-TECH-HACKER">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+<a href="https://instagram.com/MD_TECH_HACKER">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;
-<a href="https://t.me/MD_TECH_HACKER">
-  <img src="https://img.shields.io/badge/Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" height="40"/>
+<a href="https://twitter.com/MD_TECH_HACKER">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-
-<br/><br/>
-
-<!-- ─────────── TELEGRAM BOT BADGE ─────────── -->
-
-<p>
-  <img src="https://img.shields.io/badge/💬%20DM%20Me%20on%20Telegram-%40MD__TECH__HACKER-00ff41?style=flat-square&logo=telegram&logoColor=white" alt="DM" />
+&nbsp;
+<a href="mailto:contact@md-tech-hacker.me">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/MD-TECH-HACKER">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ DEVELOPER CARD ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br/>
+
+<a href="https://md-tech-hacker.me/">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=100&text=Developed%20By%20MD%20TECH%20HACKER&fontSize=25&fontColor=ffffff&desc=Click%20to%20Visit%20Official%20Website&descSize=14&descColor=00ff41&stroke=00ff41&strokeWidth=2&animation=fadeIn" width="100%" />
+</a>
+
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════
-                              HORIZONTAL DIVIDER
+                                    FOOTER
 ═══════════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-                              INSPIRATIONAL QUOTE
-═══════════════════════════════════════════════════════════════════════════════════ -->
+<br/>
 
 <div align="center">
-
-## 💭 Hacker's Wisdom
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   "Hacking is not a crime, it's an art of understanding              ║
-║    systems deeper."                                                   ║
-║                                                         — MD         ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00d4ff,75:ff00ff,100:0d1117&height=150&section=footer&animation=twinkling" width="100%" />
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-                              HORIZONTAL DIVIDER
-═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-                               SNAKE ANIMATION
-═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-                              FOOTER BANNER
-═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00d4ff,75:ff00ff,100:0d1117&height=150&section=footer&fontSize=0" width="100%" />
-
-<div align="center">
-
-<!-- ─────────── FINAL BADGE ─────────── -->
-
-<img src="https://img.shields.io/badge/Made%20With%20❤️%20By-MD%20TECH%20HACKER-00ff41?style=for-the-badge&logo=github&logoColor=white" alt="Made by MD TECH HACKER" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/⚡%20Powered%20By-Coffee%20%26%20Code-ff6600?style=flat-square" alt="Powered By" />
-
-<br/><br/>
-
-<b>⭐ If you like my work, give my repos a star! ⭐</b>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════
-     END OF README — Thanks for scrolling all the way down! You're awesome! 🎉
-═══════════════════════════════════════════════════════════════════════════════════ -->
